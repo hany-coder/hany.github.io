@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: hany-coder/hany.github.io
 github_url: https://github.com/hany-coder
-url: http://www.hany.com
-enforce_ssl: hany.com
+url: http://www.hany-coder.com
+enforce_ssl: hany-coder.com
 
 ## Gem
 plugins:
